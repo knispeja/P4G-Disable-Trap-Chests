@@ -1,5 +1,6 @@
 # Installation
 * Disable Trap Chests - Disables all encounters resulting from chests
+* Force Reaper Chests - Every chest will contain Death... not super helpful
 * Force Trap Chests - Every chest will result in an encounter
 
 See this tutorial on installing P4G mods for the smoothest experience: https://gamebanana.com/tuts/13379
